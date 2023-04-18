@@ -535,6 +535,7 @@ button {
 }
 
 .container-left {
+  margin-right: 120px;
   width: 264px;
   padding: 0;
   margin-left: 0;
