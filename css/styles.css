@@ -337,7 +337,6 @@ button {
 
 .team-description {
   padding: 32px 0;
-  
 }
 
 .team-item {
@@ -392,7 +391,6 @@ button {
 .team-icons-link:hover,
 .team-icons-link:focus {
   background-color: var(--color-ocean);
-
 }
 
 /**
@@ -451,8 +449,8 @@ button {
 */
 
 .filter {
-  padding-top:96px;
-  padding-bottom:96px;
+  padding-top: 96px;
+  padding-bottom: 96px;
 }
 
 .filter-list {
@@ -496,17 +494,14 @@ button {
 }
 
 .portfolio-link {
-  
   display: block;
 }
 
 .portfolio-link:hover,
 .portfolio-link:focus {
   background-color: var(--color-white);
-  box-shadow:
-   0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 
-    0px 2px 1px rgba(46, 47, 66, 0.08);
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
 .portfolio-title {
@@ -535,9 +530,8 @@ button {
 
 .footer > .container {
   display: flex;
-  gap: 120px;
+  margin-right: 120px;
   align-items: baseline;
-
 }
 
 .container-left {
@@ -548,7 +542,6 @@ button {
 
 .container-right {
   padding: 0;
-
 }
 
 .footer .logo {
@@ -603,7 +596,6 @@ button {
 .footer-icons-link:hover,
 .footer-icons-link:focus {
   background-color: var(--color-green);
-  
 }
 
 /**
